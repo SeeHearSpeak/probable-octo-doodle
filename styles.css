@@ -28,7 +28,7 @@
     min-height: 22rem;
     padding: 1.5rem;
     border: 0.5rem;
-    background-image: url(images/paper.jpg);
+    background-image: url("paper.jpg");
     background-size: contain;
     background-size: 139% auto;
     background-position: center;
@@ -79,7 +79,7 @@
     min-height: 20rem;
     padding: 1.5rem;
     border: 0.5rem;
-    background-image: url(images/paper.jpg);
+    background-image: url("paper.jpg");
     background-size: cover;
     background-size: 139% auto;
     background-position: center;
